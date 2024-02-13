@@ -9,7 +9,7 @@ This repository contains a simple chat server and client implemented in C++. The
 
 ## Dependencies
 - C++ compiler (e.g., g++)
-- Unix-like operating system (e.g., Linux)
+- operating system (e.g.,Windows)
 
 ## Usage
 ### Compilation:
